@@ -55,11 +55,11 @@ pub const XDR_FILES_SHA256: [(&str, &str); 13] = [
     ),
     (
         "xdr/Stellar-ledger-entries.x",
-        "3e212dab2177c86c0a0a439dd870f4e71dda70472930f17096f48b9507e4ef1a",
+        "34e0edb62317f16e31f849d1d0b9cbc2dd67132d0f7a53eab8f51ed6e1398496",
     ),
     (
         "xdr/Stellar-ledger.x",
-        "b6dec791414821d0bae7a11abb4a6b6143ce3e09d0030c580c9ece1815418b13",
+        "e9c64f59d7b9929acd7711ad786fa10d1af8f17371c1f886f27507a74df8a6bd",
     ),
     (
         "xdr/Stellar-overlay.x",
@@ -67,11 +67,11 @@ pub const XDR_FILES_SHA256: [(&str, &str); 13] = [
     ),
     (
         "xdr/Stellar-transaction.x",
-        "840ee5f5216c8e35ded4590e2976d246fa5f8b4e60670051b8373e7282c20278",
+        "782918a3c95f0883cff89688a4decfdc2c2fa74a05addb7cf5eb872d07178a04",
     ),
     (
         "xdr/Stellar-types.x",
-        "1bf41da09307489c04c454d9081a3ddcd52d04ed9af173abeb308fe4907dc590",
+        "d93cd878662570a679ad15ab0058381848f5321af17179336dab6b606ccc23e5",
     ),
 ];
 
